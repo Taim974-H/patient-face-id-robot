@@ -1,0 +1,9 @@
+opencv-contrib-python==4.10.0.84
+numpy<2
+fastapi
+uvicorn
+python-multipart
+psutil
+requests
+httpx            # only for selftest.py
+mediapipe==0.10.14   # only for the Air Play tab in main.py (install with --no-deps if pip wants to change numpy)

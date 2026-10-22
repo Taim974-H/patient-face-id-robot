@@ -1,0 +1,7 @@
+﻿__pycache__/
+*.pyc
+# registered patients (face signatures) and personal UI settings stay local
+data/
+settings_ui_camera*.json
+drawings/
+patient_id_config.json
